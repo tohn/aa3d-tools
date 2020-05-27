@@ -54,7 +54,7 @@ docker build -t aa3d .
 Now you can use `dm2txt.py` to convert an image ([`dm.png`][dm.png]) to
 a 3d txt map and use `aa3d` to convert the map to a [SIRTS][sirts].
 
-`dm2txt.py` excepts at least an image file as the first parameter.
+`dm2txt.py` accepts at least an image file as the first parameter.
 
 The second parameter can be used to set the width of the resulting "txt
 image" since an image with a width of 1920 wouldn't look good on a
