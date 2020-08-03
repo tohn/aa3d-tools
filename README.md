@@ -88,17 +88,17 @@ docker run --rm -v $(pwd):/opt -i aa3d /bin/bash -c "./dm2txt.py dm.png 80 3 | a
 * [dm.png][]
 * [heart.txt][aa3dexamples] (`heart_n_heart`)
 
-[autostereograms]: https://en.wikipedia.org/wiki/Autostereogram
-[sirds]: https://en.wikipedia.org/wiki/SIRDS
-[sirts]: https://en.wikipedia.org/wiki/ASCII_stereogram
-[aa3dexamples]: http://mewbies.com/geek_fun_files/aa3d/aa3d_3dmaps_input_examples.txt
-[yay]: https://github.com/Jguer/yay
 [aa3d]: http://aa-project.sourceforge.net/aa3d/
-[python]: https://www.python.org/
-[pip]: https://pypi.org/project/pip/
-[pillow]: https://pillow.readthedocs.io/en/stable/
-[asciify]: https://github.com/RameshAditya/asciify
-[dm.png]: https://blender.stackexchange.com/questions/132810/rendering-depth-map-that-is-linear-aliased-normalized
+[aa3dexamples]: http://mewbies.com/geek_fun_files/aa3d/aa3d_3dmaps_input_examples.txt
 [aa3dman]: https://manpages.ubuntu.com/manpages/bionic/man1/aa3d.1.html
+[asciify]: https://github.com/RameshAditya/asciify
+[autostereograms]: https://en.wikipedia.org/wiki/Autostereogram
+[dm.png]: https://blender.stackexchange.com/questions/132810/rendering-depth-map-that-is-linear-aliased-normalized
 [docker]: https://www.docker.com/
 [fish]: https://fishshell.com/
+[pillow]: https://pillow.readthedocs.io/en/stable/
+[pip]: https://pypi.org/project/pip/
+[python]: https://www.python.org/
+[sirds]: https://en.wikipedia.org/wiki/SIRDS
+[sirts]: https://en.wikipedia.org/wiki/ASCII_stereogram
+[yay]: https://github.com/Jguer/yay
