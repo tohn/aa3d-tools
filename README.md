@@ -7,7 +7,7 @@ needed to view a 3d image within a single image by using random dots
 
 But only just recently I discovered [single image random text
 (auto)stereogram][sirts]s (SIRTS), which are of course also very fun and
-nerdy to look at ;-)
+nerdy to look at :wink:
 
 With the small program [`aa3d`][aa3d] it's possible to convert 3d txt
 files into a SIRTS. A few examples for such txt files [are listed
